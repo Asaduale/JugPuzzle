@@ -1,0 +1,90 @@
+# Fill in, commit and push each day.
+
+Oct 6, 2016
+	Yesterday : 
+		I completed the initial JugPuzzle Model classes
+	
+	Today     : Add scrum framework documents to project. Proof read 
+		        and post the assignment. Send message to all students
+		        about the availability of the assignment.
+	
+	Obstacles : To fully understand the assignment, re-read it and
+				work towards satisfying the user stories. 
+
+Oct 7, 2016
+	Yesterday : Reading and understanding the required expectations from the assignment.
+	
+	Today     : Built the graphical user interface for JugPuzzle, add to the sprint backlog since it was missed yesterday.
+			    Estimating the amount of time each user story in the product backlog chosen will take. Add to daily scrum meeting.
+			    Added an observer to JugPuzzle, display the moves and have the buttons displayed. A GUIView was used, and created
+			    the action listener class. 
+			    
+	Obstacles : Implementing the moves method was much harder than expected. Stuck trying to find a way to have the 
+				button action listeners interact with the jug moves method. Still managed to complete 2/4 expectations 
+				in the spring backlog but the priorities weren't solved in order. Displaying moves was easier than making the 
+				move happen.
+				
+Oct 8, 2016
+	Yesterday : Completing the GUI foundation and displaying moves using an observer.
+	
+	Today     : Little progress made, attempted on completing one user story (Make Move).
+	
+	Obstacles : Still stuck on finding a way to move the jugs using buttons. Also trying to find a way to know which button was 
+				pressed first and which button was pressed second to make the proper move. Displaying the moves also was rough to do.
+	
+Oct 9, 2016
+	Yesterday : Stuck on completing the second product backlog, make move.
+	
+	Today     : Completed the make move backlog as well as the see number of moves and see state jugs. All of the expected
+				user stories for the first sprint have been completed, even some extra ones were completed.
+				- Won Halts Game
+				- Won alert
+				Added an extra GUIViewer to view the state of the jugs, implementing it in the same guiviewer as the moves
+				caused some trouble. Added a getter to JugPuzzle, to get the amount currently being held in the jug.
+				
+	Obstacles : To get the restart and quit button to work in the game at any time. To also get the new game or quit game option 
+				to work when the game is completed. New Game when Won is half solved since it displays the buttons but they 
+				currently have no function.
+	
+Oct 10, 2016
+	Yesterday : All the work up to the restart and quit buttons accomplished.
+	Today     : Day off.
+	Obstacles : Day off.
+	
+Oct 11, 2016
+	Yesterday : Day off.
+	Today     : Completed all the remaining user stories. Quit Any Time, New Game Any Time, New Game when Won, Won alert
+				Won Halts Game.
+	Obstacles : Creating the labels and changing the layouts of the frame so that it would display everything properly.
+	
+Oct 12, 2016
+	Yesterday : Finished remaining user story.
+	Today     : Sick, doctor appointment, sorry for not pushing.
+	Obstacles :
+	
+Oct 13, 2016
+	Yesterday : Doctor appointment, blood test etc etc.
+	Today     : Javadoc added, cleaned up code, explained the gui controller frame work. Assignment completed.
+	Obstacles : N/A.
+	
+Oct 14, 2016
+	Yesterday : Javadoc.
+	Today     : N/A.
+	Obstacles : N/A.
+	
+Oct 15, 2016
+	Yesterday : N/A.
+	Today     : Commit and push by tonight at midnight for ontime submission.
+	
+	Obstacles : !!! Apparently nothing was pushed since Oct 10, I just added whatever I had in my old repo to here again, hope there
+				isn't an issue for this.
+
+Oct 16, 2016
+	Yesterday :
+	Today     : 
+	Obstacles :
+	
+Oct 17, 2016
+	Yesterday :
+	Today     : Commit and push by tonight at midnight for late submission.
+	Obstacles :

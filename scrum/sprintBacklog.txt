@@ -1,0 +1,43 @@
+# Copy User Stories from the ProductBacklog 
+# to the appropriate Sprint below, after the 
+# Sprint Planning Meeting.
+
+# Sprint 1 October 6, 2016:
+User stories to-do list:
+	 - See GUI 
+	 - Move Moves
+	 - See number of moves
+	 - See State of Jugs 
+  See GUI user story is the most important, it is the basic framework where all the other user stories add onto it. 
+  The next part that logically makes sense is making a move, this user story doesn't want to visually see his result, 
+  they just want to be able to play the game. The see number of moves and see state of jug user stories go hand in hand. 
+  When a move is made, the state of the jugs should either change or be unchanged depending on what buttons were pressed. 
+  
+# Sprint 2 October 9, 2016
+
+User stories to-do list:
+	- New Game Any Time
+	- Quit Any Time
+	- New Game when Won
+	** - High score. ( Product Owner expectation )
+Completed user stories:
+	- See GUI 
+	- Move Moves
+	- See number of moves
+	- See State of Jugs 
+	- Won Halts Game
+	- Won alert
+  Since the programmers/team were able to meet all of the expected user stories on time and even complete some extra user stories 
+  in their spare time, it's time to move things ahead for the next sprint. By the next sprint the rest of the user stories should be 
+  completed. The final sprint will be used to add any extra features that the Product Owner decides to add.
+  
+# Sprint 3 October 12, 2016
+  Within the span of October 9 to October 12, the remaining three tasks have been completed:
+    - New Game Any Time
+	- Quit Any Time
+	- New Game when Won
+  
+  Incredible job done by the team completing the assignment ahead of time, project owner decided to omit the high score feature
+  since it wasn't necessary, he's satisfied with the outcome. As project scrum leader, I hereby announce the team free and the
+  job completed.
+

@@ -1,0 +1,97 @@
+# User Stories (add as appropriate, modify at each Sprint Planning Meeting
+# COMPLETED USER STORIES BELOW ###########################################
+--------------------------------------------------------------------------
+NAME     : See GUI
+PRIORITY : 1.
+ESTIMATE : 1 hour.
+AS A     : player
+I WANT   : to see a simple, initial GUI for game play (for example, the
+           one outlined in the assignment) the GUI is non-functional
+SO THAT  : 
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+NAME     : Make Move
+PRIORITY : 2
+ESTIMATE : 4 hours.
+AS A     : player
+I WANT   : to be able to make a game move. That is, choose the jug that I 
+           spill from (press button). Then choose the jug I spill into 
+           (press button). Then have the 
+           move made on the JugPuzzle. Note: I don't need to see the 
+           outcome of the spill yet. That is in another user story. 
+SO THAT  : I can play the game
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+NAME     : See number of moves
+PRIORITY : 3.
+ESTIMATE : 1 hour.
+AS A     : player
+I WANT   : see the number of moves I have made in my attempt to 
+           solve the puzzle. 
+           Hint: This is another view (=Observer) on the JugPuzzle. 
+SO THAT  : I can see my progress in solving the puzzle. 
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+NAME     : See State of Jugs 
+PRIORITY : 4
+ESTIMATE : 4 hours.
+AS A     : player
+I WANT   : to graphically/visually see the current state of the jugs 
+           in the jug puzzle. 
+           Hint: This is another view (=observer), but this time 
+           it could be a view on the Jug. 
+SO THAT  : I can see my progress in solving the puzzle.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+NAME     : Won Halts Game
+PRIORITY : 5
+ESTIMATE : 
+AS A     : player
+I WANT   : Not have the ability to make another move once 
+           the puzzle is solved. 
+SO THAT  : I can't accidentally corrupt my score by making a move 
+           after solving the puzzle. 
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+NAME     : Won alert
+PRIORITY : 6
+ESTIMATE : 
+AS A     : player
+I WANT   : to know when I have won the game. 
+SO THAT  :
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+NAME     : New Game when Won
+PRIORITY : 7
+ESTIMATE : 
+AS A     : player
+I WANT   : to be given the choice to play a new game or to quit, once the 
+           game is over. 
+SO THAT  : A new game can be played or the game is closed.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+NAME     : New Game Any Time
+PRIORITY : 8
+ESTIMATE : 
+AS A     : player
+I WANT   : to be given the choice to start a new game at any 
+           time during the game.
+SO THAT  : I can restart and play again.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+NAME     : Quit Any Time
+PRIORITY : 9
+ESTIMATE : 
+AS A     : player
+I WANT   : to be able to quit the game any time.
+SO THAT  : I quit the game.
+--------------------------------------------------------------------------
+# OMITTED USER STORIES BELOW   ###########################################
+--------------------------------------------------------------------------
+NAME     : High score
+PRIORITY : 10
+ESTIMATE : 2 hours.
+AS A     : player
+I WANT   : to be able to see my high score.
+SO THAT  : I can beat it the next time I play.
+--------------------------------------------------------------------------
